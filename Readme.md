@@ -7,6 +7,9 @@ To aggregate data together for reporting and Machine Learning we are recommendin
 
 Their will be an API and Azure Function will anonymise the data before it makes its way into Azure SQL. More details on[HealthVault Developer API](https://developer.healthvault.com) 
    
+## Architecture Diagram
+
+![Archiecture Design](https://github.com/Fizzyo/Architecture/blob/master/Images/Architecture.png)   
  
  This will provide the the ability to source data from other devices (i.e., fitness trackers, etc.) 
  

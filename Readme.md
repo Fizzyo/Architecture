@@ -5,7 +5,9 @@ is a private data store for an individual’s personal data and gives you the se
 
 To aggregate data together for reporting and Machine Learning we are recommending collating game data in DataBase, such as Azure SQL. 
 
-Their will be an API and Azure Function will anonymise the data before it makes its way into Azure SQL. More details on the [HealthVault Developer API](https://developer.healthvault.com) 
+The API and Azure Function will anonymise the data before it makes its way into Azure SQL.  
+ 
+[HealthVault Developer API](https://developer.healthvault.com) 
    
 ## Architecture Diagram
 

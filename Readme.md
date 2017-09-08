@@ -17,9 +17,9 @@ The API and Azure Function will anonymise the data before it makes its way into 
 
  ![Fizzyo Tech Stack](https://github.com/Fizzyo/Architecture/blob/master/Images/Fizzyotech.JPG) 
 
- 
- The larger goal would be to use something like Azure Data Lake at the 3rd Party Trusted Source and add a reference to the source in either HealthVault or your DB.
+## Data Analysis
  
 ![Data Analysis Architecture](https://github.com/Fizzyo/Architecture/blob/master/Images/Fizzyoda.png)   
+## Data Visualisation 
 
-With HealthVault you can create very basic dashboards and the API supports care plans.  We’re planning on fronting HealthVault with an API, which opens up PowerBI.com to create the visualisations and allows an app ecosystem to interact with the HealthVault data, like bots for example and dashbaords for patient, career, parents and medics.
+With HealthVault you can create very basic dashboards and the API supports care plans.  We are fronting HealthVault with an API and using PowerBI.com to create the visualisations and allows an app ecosystem to interact with the HealthVault data, like bots for example and dashbaords for patient, career, parents and medics.

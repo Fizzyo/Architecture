@@ -11,9 +11,12 @@ The API and Azure Function will anonymise the data before it makes its way into 
    
 ## Architecture Diagram
 
-![Architecture Design](https://github.com/Fizzyo/Architecture/blob/master/Images/Fizzyo Arch.jpg)   
+![Architecture Design](https://github.com/Fizzyo/Architecture/blob/master/Images/FizzyoArch.jpg)   
  
  This will provide the the ability to source data from other devices (i.e., fitness trackers, etc.) 
+
+ ![Fizzyo Tech Stack](https://github.com/Fizzyo/Architecture/blob/master/Images/FizzyoTech.jpg) 
+
  
  The larger goal would be to use something like Azure Data Lake at the 3rd Party Trusted Source and add a reference to the source in either HealthVault or your DB.
  

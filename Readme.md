@@ -11,7 +11,7 @@
 ## Fizzyo API 
 
 The Fizzyo API is fully documented at 
-![Fizzyo API](https://api.fizzyo-ucl.co.uk/)
+[Fizzyo API](https://api.fizzyo-ucl.co.uk/)
 
 ## Data Analysis
  

@@ -6,12 +6,15 @@
  
  This will provide the the ability to source data from other devices (i.e., fitness trackers, etc.) 
 
- ![Fizzyo Tech Stack](https://github.com/Fizzyo/Architecture/blob/master/Images/Fizzyotech.JPG) 
-
-## Fizzyo API 
+ ## Fizzyo API 
 
 The Fizzyo API is fully documented at 
 [Fizzyo API](https://api.fizzyo-ucl.co.uk/)
+
+## Fizzyo Platform
+
+ ![Fizzyo Tech Stack](https://github.com/Fizzyo/Architecture/blob/master/Images/Fizzyotech.JPG) 
+
 
 ## Data Analysis
  
